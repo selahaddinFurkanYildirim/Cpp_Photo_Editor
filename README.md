@@ -13,3 +13,5 @@ sudo apt-get install libsdl-image1.2 libsdl-image1.2-dev guile-2.2 guile-2.2-dev
 https://askubuntu.com/questions/1082722/unable-to-locate-package-libesd0-dev-on-ubuntu-18-04
 
 https://askubuntu.com/questions/235880/how-to-fix-gpg-in-updater
+
+https://stackoverflow.com/questions/67636061/unable-to-install-libgraph-in-linux-ubuntu-20-04
