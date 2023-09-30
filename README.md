@@ -15,3 +15,5 @@ https://askubuntu.com/questions/1082722/unable-to-locate-package-libesd0-dev-on-
 https://askubuntu.com/questions/235880/how-to-fix-gpg-in-updater
 
 https://stackoverflow.com/questions/67636061/unable-to-install-libgraph-in-linux-ubuntu-20-04
+
+https://urwithajit9.medium.com/adding-graphic-h-for-graphic-programming-using-c-c-in-ubuntu-20-4-65840fa6347b
